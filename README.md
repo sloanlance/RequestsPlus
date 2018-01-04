@@ -1,2 +1,2 @@
 # RequestsPlus
-Wrapper for the common Python "requests" library, with methods to make some tasks easier.
+RequestsPlus is a wrapper for the common Python "requests" library, with methods to make some tasks easier.
